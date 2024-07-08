@@ -9,7 +9,7 @@ const skills = [
   { skill: "MUI" },
   { skill: "Bootstrap" },
   { skill: "Tailwind CSS" },
-  { skill: "Wordpress" },
+  { skill: "Wordpress Developer" },
   { skill: "Frontend Developer" },
 ]
 
@@ -37,16 +37,16 @@ const AboutSection = () => {
             <br />
             <p>
               I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
+              From reading, playing sports, traveling etc.
               I am always seeking new experiences and love to keep myself
               engaged and learning new things.
             </p>
             <br />
             <p>
-              I believe that you should{" "}
+              I believe that you should
               <span className="font-bold text-teal-500">
                 never stop growing
-              </span>{" "}
+              </span>
               and that&#39;s what I strive to do, I have a passion for
               technology and a desire to always push the limits of what is
               possible. I am excited to see where my career takes me and am
