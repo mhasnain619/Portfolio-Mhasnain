@@ -31,7 +31,7 @@ const AboutSection = () => {
               Hi, my name is  M Masnain and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software developer
+              <span className="font-bold">{" driven"}</span> Frontend developer
               based in Karachi, Pakistan.
             </p>
             <br />
