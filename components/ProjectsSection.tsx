@@ -28,9 +28,16 @@ const projects = [
     link: "https://boldo-fwnjsc1v5-mhasnain619s-projects.vercel.app/",
   },
   {
+    name: "Hoobank",
+    description: "Hoobank the next generation payment method. You do the business, we’ll handle the money.",
+    image: "/newHoobank.png",
+    github: "https://github.com/mhasnain619/HooBank",
+    link: "https://hoo-bank-pied.vercel.app/",
+  },
+  {
     name: "Quiz App",
     description:
-      "Quiz app using Html,Css & Js also user can signup and login",
+      "Quiz app using Html,Css & Js",
     image: "/Quizz-App.png",
     github: "https://github.com/mhasnain619/Quiz-App",
     link: "https://mhasnain619.github.io/Quiz-App/quiz.html",
@@ -38,7 +45,7 @@ const projects = [
   {
     name: "Todo",
     description:
-      "Todo list using react js user can add,delete,edit data.",
+      "Todo list created using react js. User can add,delete,edit data.",
     image: "/todo-list.png",
     github: "https://github.com/mhasnain619/todo",
     link: "https://todo-ebon-three.vercel.app/",
