@@ -50,6 +50,14 @@ const projects = [
     github: "https://github.com/mhasnain619/todo",
     link: "https://todo-ebon-three.vercel.app/",
   },
+  {
+    name: "Weather App",
+    description:
+      "Weather App Created using React js",
+    image: "/Weatherapp.png",
+    github: "https://github.com/mhasnain619/WeatherApp-using-React",
+    link: "https://weather-app-using-react-chi.vercel.app/",
+  },
 
   {
     name: "Thankful Thoughts",

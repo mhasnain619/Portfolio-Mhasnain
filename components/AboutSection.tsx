@@ -29,7 +29,7 @@ const AboutSection = () => {
             </h1>
             <p>
               Hi, my name is  M Masnain and I am a
-              <span className="font-bold">{"highly ambitious"}</span>,
+              <span className="font-bold">{" highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
               <span className="font-bold">{" driven"}</span> Frontend developer
               based in Karachi, Pakistan.
@@ -45,7 +45,7 @@ const AboutSection = () => {
             <p>
               I believe that you should
               <span className="font-bold text-teal-500">
-                never stop growing
+                 never stop growing 
               </span>
               and that&#39;s what I strive to do, I have a passion for
               technology and a desire to always push the limits of what is
