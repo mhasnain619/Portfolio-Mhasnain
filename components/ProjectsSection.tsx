@@ -21,6 +21,13 @@ const projects = [
     link: "#",
   },
   {
+    name: "React Essentials",
+    description: "Fundamental React concepts you will need for almost any app you are going to build!",
+    image: "/reactEssentials.png",
+    github: "https://github.com/mhasnain619/react",
+    link: "https://react-essentials-theta.vercel.app/",
+  },
+  {
     name: "Boldo",
     description: "We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app",
     image: "/boldo.png",
