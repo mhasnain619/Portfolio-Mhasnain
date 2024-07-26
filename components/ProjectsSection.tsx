@@ -5,14 +5,14 @@ import SlideUp from "./SlideUp"
 import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
-  {
-    name: "Facebook Profile",
-    description:
-      "Facebook profile page created using react js.",
-    image: "/FBprofile.png",
-    github: "https://github.com/mhasnain619/react-facebookProfile",
-    link: "https://react-facebook-profile.vercel.app/",
+   {
+    name: "Boldo",
+    description: "We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app",
+    image: "/boldo.png",
+    github: "https://github.com/mhasnain619/boldo",
+    link: "https://boldo-flame.vercel.app/",
   },
+ 
   {
     name: "Travel Website",
     description: "We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app",
@@ -27,14 +27,7 @@ const projects = [
     github: "https://github.com/mhasnain619/react",
     link: "https://react-essentials-theta.vercel.app/",
   },
-  {
-    name: "Boldo",
-    description: "We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app",
-    image: "/boldo.png",
-    github: "https://github.com/mhasnain619/boldo",
-    link: "https://boldo-flame.vercel.app/",
-  },
-  {
+   {
     name: "Hoobank",
     description: "Hoobank the next generation payment method. You do the business, we’ll handle the money.",
     image: "/newHoobank.png",
@@ -48,6 +41,14 @@ const projects = [
     image: "/Quizz-App.png",
     github: "https://github.com/mhasnain619/Quiz-App",
     link: "https://mhasnain619.github.io/Quiz-App/quiz.html",
+  },
+   {
+    name: "Facebook Profile",
+    description:
+      "Facebook profile page created using react js.",
+    image: "/FBprofile.png",
+    github: "https://github.com/mhasnain619/react-facebookProfile",
+    link: "https://react-facebook-profile.vercel.app/",
   },
   {
     name: "Todo",
