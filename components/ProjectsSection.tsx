@@ -32,7 +32,7 @@ const projects = [
     description: "We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app",
     image: "/boldo.png",
     github: "https://github.com/mhasnain619/boldo",
-    link: "https://boldo-fwnjsc1v5-mhasnain619s-projects.vercel.app/",
+    link: "https://boldo-flame.vercel.app/",
   },
   {
     name: "Hoobank",
