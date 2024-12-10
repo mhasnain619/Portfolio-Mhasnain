@@ -68,12 +68,12 @@ const projects = [
   },
   {
     name: "Weather App",
-    description:
-      "Weather App Created using React js",
-    image: "/Weatherapp.png",
-    github: "https://github.com/mhasnain619/WeatherApp-using-React",
-    link: "https://weather-app-using-react-chi.vercel.app/",
+    description:"A Weather App is a user-friendly application designed to provide real-time weather updates and forecasts.",
+    image: "/weather.png",
+    github: "https://github.com/mhasnain619/Weather-app",
+    link: "https://weather-app-blush-delta-46.vercel.app/",
   },
+  
 
   {
     name: "Thankful Thoughts",
