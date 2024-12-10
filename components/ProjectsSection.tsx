@@ -20,6 +20,14 @@ const projects = [
     github: "https://github.com/mhasnain619/travel",
     link: "#",
   },
+ 
+  {
+    name: "GitHub User Finder App",
+    description: "This is a simple and efficient web application that allows users to search for GitHub profiles and view detailed information about them.",
+    image: "/userFinder.png",
+    github: "https://github.com/mhasnain619/GitHub-User-Finder",
+    link: "https://git-hub-user-finder-wheat.vercel.app/",
+  },
   {
     name: "React Essentials",
     description: "Fundamental React concepts you will need for almost any app you are going to build!",
