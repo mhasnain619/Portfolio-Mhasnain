@@ -12,21 +12,13 @@ const projects = [
     github: "https://github.com/mhasnain619/boldo",
     link: "https://boldo-flame.vercel.app/",
   },
- 
-  {
-    name: "Travel Website",
-    description: "We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app",
-    image: "/travel.png",
-    github: "https://github.com/mhasnain619/travel",
-    link: "#",
-  },
- 
+  
   {
     name: "GitHub User Finder App",
     description: "This is a simple and efficient web application that allows users to search for GitHub profiles and view detailed information about them.",
     image: "/userFinder.png",
-    github: "https://github.com/mhasnain619/GitHub-User-Finder",
-    link: "https://git-hub-user-finder-wheat.vercel.app/",
+    github: "https://github.com/mhasnain619/newGithubUserFinder",
+    link: "https://new-github-user-finder.vercel.app/",
   },
   {
     name: "React Essentials",
@@ -43,12 +35,27 @@ const projects = [
     link: "https://hoo-bank-pied.vercel.app/",
   },
   {
+    name: "Weather App",
+    description:"A Weather App is a user-friendly application designed to provide real-time weather updates and forecasts.",
+    image: "/weather.png",
+    github: "https://github.com/mhasnain619/Weather-app",
+    link: "https://weather-app-blush-delta-46.vercel.app/",
+  },
+  
+  {
     name: "Quiz App",
     description:
       "Quiz app using Html,Css & Js",
     image: "/Quizz-App.png",
     github: "https://github.com/mhasnain619/Quiz-App",
     link: "https://mhasnain619.github.io/Quiz-App/quiz.html",
+  },
+  {
+    name: "Travel Website",
+    description: "We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app",
+    image: "/travel.png",
+    github: "https://github.com/mhasnain619/travel",
+    link: "#",
   },
    {
     name: "Facebook Profile",
@@ -66,15 +73,6 @@ const projects = [
     github: "https://github.com/mhasnain619/todo",
     link: "https://todo-ebon-three.vercel.app/",
   },
-  {
-    name: "Weather App",
-    description:"A Weather App is a user-friendly application designed to provide real-time weather updates and forecasts.",
-    image: "/weather.png",
-    github: "https://github.com/mhasnain619/Weather-app",
-    link: "https://weather-app-blush-delta-46.vercel.app/",
-  },
-  
-
   {
     name: "Thankful Thoughts",
     description:
