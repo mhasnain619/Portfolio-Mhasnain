@@ -27,6 +27,13 @@ const projects = [
     github: "https://github.com/mhasnain619/react",
     link: "https://react-essentials-theta.vercel.app/",
   },
+  {
+    name: "Realme Web Clone",
+    description: "A visually appealing Realme web interface clone built using React, focusing on fundamental concepts like component-based architecture, JSX, and reusable UI elements. This project is ideal for beginners learning React while building clean, responsive, and modular user interfaces",
+    image: "/realme.png",
+    github: "https://github.com/mhasnain619/realme.pk",
+    link: "https://realme-pk.vercel.app/",
+  },
    {
     name: "Hoobank",
     description: "Hoobank the next generation payment method. You do the business, we’ll handle the money.",
