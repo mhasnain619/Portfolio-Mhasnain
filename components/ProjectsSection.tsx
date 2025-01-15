@@ -5,6 +5,27 @@ import SlideUp from "./SlideUp"
 import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
+    {
+    name: "BMW.com | The international BMW Website",
+    description: "A sleek replica of the BMW website built with React, featuring user authentication and modern web development practices.",
+    image: "/bmw.jpg",
+    github: "https://github.com/mhasnain619/bmw-new-version",
+    link: "https://bmw-new-version.vercel.app//",
+  },
+   {
+    name: "GitHub User Finder App",
+    description: "This is a simple and efficient web application that allows users to search for GitHub profiles and view detailed information about them.",
+    image: "/userFinder.png",
+    github: "https://github.com/mhasnain619/newGithubUserFinder",
+    link: "https://new-github-user-finder.vercel.app/",
+  },
+    {
+    name: "Realme Web Clone",
+    description: "A visually appealing Realme web interface clone built using React, focusing on fundamental concepts like component-based architecture, JSX, and reusable UI elements. This project is ideal for beginners learning React while building clean, responsive, and modular user interfaces",
+    image: "/realme.png",
+    github: "https://github.com/mhasnain619/realme.pk",
+    link: "https://realme-pk.vercel.app/",
+  },
    {
     name: "Boldo",
     description: "We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app",
@@ -13,13 +34,8 @@ const projects = [
     link: "https://boldo-flame.vercel.app/",
   },
   
-  {
-    name: "GitHub User Finder App",
-    description: "This is a simple and efficient web application that allows users to search for GitHub profiles and view detailed information about them.",
-    image: "/userFinder.png",
-    github: "https://github.com/mhasnain619/newGithubUserFinder",
-    link: "https://new-github-user-finder.vercel.app/",
-  },
+ 
+ 
   {
     name: "React Essentials",
     description: "Fundamental React concepts you will need for almost any app you are going to build!",
@@ -27,13 +43,8 @@ const projects = [
     github: "https://github.com/mhasnain619/react",
     link: "https://react-essentials-theta.vercel.app/",
   },
-  {
-    name: "Realme Web Clone",
-    description: "A visually appealing Realme web interface clone built using React, focusing on fundamental concepts like component-based architecture, JSX, and reusable UI elements. This project is ideal for beginners learning React while building clean, responsive, and modular user interfaces",
-    image: "/realme.png",
-    github: "https://github.com/mhasnain619/realme.pk",
-    link: "https://realme-pk.vercel.app/",
-  },
+
+
    {
     name: "Hoobank",
     description: "Hoobank the next generation payment method. You do the business, we’ll handle the money.",
