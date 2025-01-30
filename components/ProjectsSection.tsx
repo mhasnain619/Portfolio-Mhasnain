@@ -10,7 +10,14 @@ const projects = [
     description: "A sleek replica of the BMW website built with React, featuring user authentication and modern web development practices.",
     image: "/bmw.jpg",
     github: "https://github.com/mhasnain619/bmw-new-version",
-    link: "https://bmw-new-version.vercel.app//",
+    link: "https://bmw-new-version.vercel.app/",
+  },
+    {
+    name: "ExploreEase | Welcome to the ExploreEase",
+    description: "This is the central hub where you can access and manage all key aspects of your application. Navigate through different sections such as Users, Products, Profile, and Contact using the sidebar menu. The dashboard provides a user-friendly interface for quick access to essential data, analytics, and management tools. Get real-time insights and efficiently handle tasks with just a few clicks.",
+    image: "/exploreEase.jpg",
+    github: "https://github.com/mhasnain619/Nested-Routing-App",
+    link: "https://nested-routing-app.vercel.app/",
   },
     {
     name: "Products | Products Details",
@@ -41,8 +48,6 @@ const projects = [
     link: "https://boldo-flame.vercel.app/",
   },
   
- 
- 
   {
     name: "React Essentials",
     description: "Fundamental React concepts you will need for almost any app you are going to build!",
