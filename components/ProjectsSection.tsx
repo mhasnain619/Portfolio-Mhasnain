@@ -12,6 +12,13 @@ const projects = [
     github: "https://github.com/mhasnain619/bmw-new-version",
     link: "https://bmw-new-version.vercel.app//",
   },
+    {
+    name: "Products | Products Details",
+    description: "Discover a modern, high-performance web application meticulously crafted with React Bootstrap to deliver a seamless shopping experience across 20+ diverse products. Designed with industry best practices, this platform combines sleek aesthetics, robust functionality, and optimal performance to engage users and drive conversions.",
+    image: "/product.jpg",
+    github: "https://github.com/mhasnain619/productDetail",
+    link: "https://product-detail-ten.vercel.app/",
+  },
    {
     name: "GitHub User Finder App",
     description: "This is a simple and efficient web application that allows users to search for GitHub profiles and view detailed information about them.",
