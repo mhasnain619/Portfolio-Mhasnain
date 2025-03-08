@@ -6,6 +6,20 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
     {
+    name: "Learning Management System",
+    description: "This platform is designed to streamline and enhance the management of educational institutions. It offers a comprehensive suite of tools for managing courses, students, teachers, and administrative tasks. The system is built with React, and Firebase, ensuring optimal performance, security, and scalability.",
+    image: "/lms.jpg",
+    github: "https://github.com/mhasnain619/Learning-Management-System",
+    link: "https://learning-management-system-ruddy.vercel.app/",
+  },
+    {
+    name: "Hotel Management System",
+    description: "Welcome to the Hotel Management System, a powerful and user-friendly platform designed to streamline hotel operations, enhance customer experiences, and manage resources efficiently. This system is built with React, Firebase, and Material-UI, ensuring optimal performance, security, and scalability.",
+    image: "/hotelManagement.jpg",
+    github: "https://github.com/mhasnain619/Hakaton",
+    link: "https://hotel-management-system-woad.vercel.app",
+  },
+    {
     name: "BMW.com | The international BMW Website",
     description: "A sleek replica of the BMW website built with React, featuring user authentication and modern web development practices.",
     image: "/bmw.jpg",
@@ -122,13 +136,13 @@ const ProjectsSection = () => {
         <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded"></hr>
       </h1>
 
-      <div className="flex flex-col space-y-28">
+      <div className="flex flex-col md:space-y-28">
         {projects.map((project, idx) => {
           return (
             <div key={idx}>
               <SlideUp offset="-300px 0px -300px 0px">
                 <div className="flex flex-col  animate-slideUpCubiBezier animation-delay-2 md:flex-row md:space-x-12">
-                  <div className=" md:w-1/2">
+                  <div className="mt-8 md:mt-0 md:w-1/2">
                     <Link href={project.link}>
                       <Image
                         src={project.image}
@@ -139,7 +153,7 @@ const ProjectsSection = () => {
                       />
                     </Link>
                   </div>
-                  <div className="mt-8 md:w-1/2">
+                  <div className="md:mt-0 mt-8 md:w-1/2">
                     <h1 className="text-4xl font-bold mb-6">{project.name}</h1>
                     <p className="text-xl leading-7 mb-4 text-neutral-600 dark:text-neutral-400">
                       {project.description}
